@@ -1,2 +1,2 @@
 # Java-Inheritance
-This repository comprisses of hierarchical, hybrid, multilevel and multiple inheritance
+This repository comprisses of single, hierarchical, hybrid, multilevel and multiple inheritance
